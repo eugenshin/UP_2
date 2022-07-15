@@ -1,0 +1,11 @@
+C:\Users\Женя\Desktop\KP_2\bin\Release\KP_2.exe.config
+C:\Users\Женя\Desktop\KP_2\bin\Release\KP_2.exe
+C:\Users\Женя\Desktop\KP_2\bin\Release\KP_2.pdb
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.Form1.resources
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.Properties.Resources.resources
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.csproj.GenerateResource.cache
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.exe
+C:\Users\Женя\Desktop\KP_2\obj\Release\KP_2.pdb
